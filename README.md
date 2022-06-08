@@ -1,1 +1,0 @@
-# Detection-of-Intracranial-Hemorrhage-using-deep-learning
